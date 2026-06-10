@@ -1,0 +1,201 @@
+serious,is_fatal,is_hospitalized,is_life_threat,is_disabling,reactions,primary_reaction,reaction_outcomes,suspect_drug
+Yes,False,False,False,False,Stevens-Johnson syndrome; Platelet count decreased; Red blood cell count decreased; Adverse event; Pain in extremity,Stevens-Johnson syndrome,Unknown; Not Recovered; Recovered,RUCAPARIB
+No,False,False,False,False,Arthropathy; Mental disorder; Anaemia; Off label use,Arthropathy,Unknown,TOFACITINIB
+No,False,False,False,False,Arthralgia; Blood lactate dehydrogenase increased; Blood creatine phosphokinase increased; Ataxia,Arthralgia,Unknown; Recovered,USTEKINUMAB
+Yes,False,False,False,False,Nasal obstruction; Drug ineffective; Oral pruritus; Chest discomfort; Hypersensitivity,Nasal obstruction,Unknown; Recovering,OMALIZUMAB
+No,False,False,False,False,Asthenia; Fatigue,Asthenia,Unknown,CERTOLIZUMAB PEGOL
+No,False,False,False,False,Malaise; Gastrointestinal disorder; Condition aggravated; Diarrhoea,Malaise,Unknown; Recovering,TOFACITINIB
+Yes,False,False,True,True,Subarachnoid haemorrhage,Subarachnoid haemorrhage,Fatal,LEDIPASVIR AND SOFOSBUVIR
+Yes,False,False,False,False,Uveitis; Blindness; Blood pressure increased; Eye pain; Visual impairment,Uveitis,Unknown; Not Recovered; Recovered,INFLIXIMAB-DYYB
+No,False,False,False,False,Drug hypersensitivity,Drug hypersensitivity,Unknown,METHOTREXATE SODIUM
+Yes,False,False,False,False,Kidney transplant rejection,Kidney transplant rejection,Unknown,ECULIZUMAB
+Yes,False,False,False,False,Drug dose omission; Off label use; Dyspnoea; Therapy cessation; Bipolar disorder,Drug dose omission,Unknown,ACLIDINIUM BROMIDE
+Yes,True,False,False,False,Septic shock,Septic shock,Unknown,RITUXIMAB
+Yes,False,False,False,False,Injection site reaction; Rheumatoid arthritis; Pain; Inappropriate schedule of product administration; Injection site rash,Injection site reaction,Unknown; Not Recovered,SARILUMAB
+Yes,False,False,False,False,Renal injury; Renal impairment; Osteoporosis; Multiple fractures; Chronic kidney disease,Renal injury,Unknown; Not Recovered,TENOFOVIR DISOPROXIL FUMARATE
+Yes,False,True,False,False,Pneumonia; Hydrocephalus; Bronchitis; Insurance issue; Product use issue,Pneumonia,Unknown; Recovered; Recovering,HUMAN IMMUNOGLOBULIN G
+Yes,False,True,False,False,Product dose omission issue; Mental disorder; Hypokinesia; Back pain; Dysstasia,Product dose omission issue,Unknown; Not Recovered; Recovered; Recovering,RUXOLITINIB
+No,False,False,False,False,Gynaecomastia; Emotional disorder; Nightmare; Sleep disorder,Gynaecomastia,Unknown; Not Recovered,RISPERIDONE
+Yes,False,True,False,False,Chronic kidney disease,Chronic kidney disease,Not Recovered,TENOFOVIR DISOPROXIL FUMARATE
+Yes,False,False,False,False,Pain; Disability; Drug ineffective; Arthralgia; Drug effect decreased,Pain,Unknown; Recovering,MINOCYCLINE
+Yes,False,True,False,False,Gastrointestinal haemorrhage; Large intestine polyp,Gastrointestinal haemorrhage,Unknown,RIVAROXABAN
+Yes,False,True,False,False,Psychotic symptom; Condition aggravated,Psychotic symptom,Recovering,OLANZAPINE
+Yes,False,False,False,False,Multiple sclerosis relapse; Dizziness; Coordination abnormal; Weight decreased; Pain,Multiple sclerosis relapse,Unknown; Not Recovered; Recovered; Recovering,FINGOLIMOD HCL
+Yes,False,False,False,False,Pneumatosis intestinalis; Product use in unapproved indication,Pneumatosis intestinalis,Unknown; Recovering,METHOTREXATE; METHOTREXATE SODIUM
+Yes,True,True,False,False,Blood pressure increased; Haemorrhage; Off label use; General physical health deterioration; Pain in extremity,Blood pressure increased,Unknown,ACTILYSE
+No,False,False,False,False,Product prescribing error,Product prescribing error,Unknown,ISOTRETINOIN
+Yes,False,True,False,False,Cerebrovascular accident; General physical health deterioration; Jaundice; Diarrhoea; Haemoglobin decreased,Cerebrovascular accident,Unknown,DEFERASIROX
+Yes,False,True,False,False,Pancreatitis; Anal fistula; Pharyngitis; Syphilis; Arteriosclerosis,Pancreatitis,Not Recovered; Recovered; Recovering,DOLUTEGRAVIR
+Yes,False,True,True,False,Implant site vesicles; Laboratory test abnormal; Wound; Implant site erythema; Wound secretion,Implant site vesicles,Unknown; Not Recovered; Recovered,NO TREATMENT RECEIVED
+Yes,False,False,False,False,Stevens-Johnson syndrome; Off label use,Stevens-Johnson syndrome,Unknown; Recovered,NIVOLUMAB
+Yes,False,True,False,False,Metabolic acidosis; Metabolic alkalosis,Metabolic acidosis,Not Recovered,"SODIUM BICARBONATE; SODIUM BICARBONATE INJECTION,"
+Yes,False,True,False,False,Lethargy; Respiratory depression; Coma; Toxicity to various agents,Lethargy,Unknown; Recovered,TRAMADOL/TRAMADOL HYDROCHLORIDE
+Yes,False,False,False,False,Abdominal discomfort; Chest discomfort; Abdominal pain upper; Gastric disorder; Constipation,Abdominal discomfort,Unknown; Not Recovered; Recovered,PIRFENIDONE
+Yes,False,False,False,False,Upper respiratory tract infection; Asthma; Influenza like illness,Upper respiratory tract infection,Recovered,TOCILIZUMAB
+No,False,False,False,False,Laboratory test abnormal; Fatigue; Asthenia; Hyperhidrosis; Hepatic enzyme increased,Laboratory test abnormal,Unknown; Not Recovered,RUXOLITINIB
+Yes,False,False,False,False,Drug use disorder; Disorientation,Drug use disorder,Unknown; Recovered,FLURAZEPAM/FLURAZEPAM HYDROCHLORIDE
+Yes,False,False,False,False,Rheumatoid arthritis; Intentional product use issue,Rheumatoid arthritis,Not Recovered,ESOMEPRAZOLE MAGNESIUM
+Yes,False,True,False,False,Urinary retention; Bedridden; Muscular weakness,Urinary retention,Recovered,ROSUVASTATIN TABLET
+No,False,False,False,False,Stress; Arthropathy; Eye disorder; Back disorder,Stress,Unknown,TOFACITINIB
+Yes,False,True,False,False,Carotid artery stenosis,Carotid artery stenosis,Recovered,PONATINIB
+Yes,True,True,False,False,Death; Acute kidney injury; End stage renal disease; Renal failure; Pain,Death,Unknown; Not Recovered,TENOFOVIR DISOPROXIL FUMARATE
+No,False,False,False,False,Psoriasis,Psoriasis,Unknown,SECUKINUMAB
+Yes,False,True,False,False,COVID-19; Weight decreased; Illness; Pain in extremity; Product dose omission issue,COVID-19,Unknown,IMIGLUCERASE
+Yes,False,True,True,False,Platelet count decreased; Neutrophil count decreased; Papule; Platelet count decreased; Hyperuricaemia,Platelet count decreased,Unknown; Recovered; Recovering,ABACAVIR SULFATE\DOLUTEGRAVIR SODIUM\LAMIVUDINE
+Yes,False,False,False,False,Fall; Face injury; Malaise; Pain,Fall,Unknown,TOFACITINIB
+No,False,False,False,False,Drug hypersensitivity,Drug hypersensitivity,Unknown,METHOTREXATE SODIUM
+Yes,False,False,False,False,Therapeutic response decreased; Skin reaction; Neutralising antibodies positive,Therapeutic response decreased,Unknown,ROMIPLOSTIM
+Yes,False,False,False,False,Unintended pregnancy,Unintended pregnancy,Unknown,ISOTRETINOIN
+Yes,True,True,False,False,Peptic ulcer; Haemoglobin decreased; Fluid overload; Feeling abnormal; Patient dissatisfaction with treatment,Peptic ulcer,Unknown; Not Recovered; Recovered; Recovering,MACITENTAN
+Yes,False,False,False,False,Exposure via father; Congenital brain damage,Exposure via father,Unknown,ENTECAVIR
+Yes,False,True,False,False,Pancytopenia; Pancytopenia; Thrombocytopenia,Pancytopenia,Recovered,BEVACIZUMAB
+Yes,False,False,False,False,Prostate cancer stage II,Prostate cancer stage II,Unknown,ZANTAC
+Yes,False,False,False,False,Haemorrhage,Haemorrhage,Unknown,AMIODARONE
+Yes,False,False,False,False,Depression; Urticaria; Malaise; Sinusitis; Candida infection,Depression,Unknown,TREPROSTINIL
+Yes,False,False,False,False,Blindness; Glaucoma; Diabetes mellitus; Drug dose omission,Blindness,Unknown,DIANEAL LOW CALCIUM PERITONEAL DIALYSIS SOLUTION WITH DEXTROSE
+Yes,False,True,False,False,Bedridden; Movement disorder; Transient ischaemic attack; Blood pressure abnormal; Pain,Bedridden,Unknown,PREGABALIN
+Yes,False,False,False,False,Colitis ulcerative,Colitis ulcerative,Not Recovered,VEDOLIZUMAB
+Yes,False,True,False,False,Chest discomfort; Vomiting; Cough; Dyspnoea; Urticaria,Chest discomfort,Unknown,GAMUNEX?C
+Yes,False,False,True,False,Acute kidney injury; Posterior reversible encephalopathy syndrome; Epilepsy; Dehydration; Alcohol withdrawal syndrome,Acute kidney injury,Unknown; Recovered; Recovering,ZOPICLONE
+Yes,False,True,False,False,Hepatic function abnormal; Oedema peripheral; Cardiac failure congestive,Hepatic function abnormal,Recovered; Recovering,AMLODIN
+Yes,False,False,False,False,Drug hypersensitivity; Suicidal ideation,Drug hypersensitivity,Unknown,FLUOXETINE HYDROCHLORIDE
+Yes,False,True,False,False,Ischaemic stroke; Cerebral thrombosis; Paraesthesia; Paraesthesia; Language disorder,Ischaemic stroke,Unknown; Not Recovered; Recovered; Fatal,ADALIMUMAB
+Yes,True,True,False,False,Erythema; Rash; Vitamin D deficiency; Menstruation irregular; Urinary tract infection,Erythema,Unknown; Not Recovered; Recovered,OCRELIZUMAB
+No,False,False,False,False,Visual impairment; Dermatitis atopic; Drug ineffective,Visual impairment,Unknown,DUPILUMAB
+Yes,False,True,False,False,Meningitis viral; Encephalitis; Hemiparesis; Exposure to contaminated water; Multiple sclerosis,Meningitis viral,Unknown; Fatal,INTERFERON BETA-1A
+No,False,False,False,False,Burning sensation; Rhinorrhoea; Malaise; Gait inability; Peripheral swelling,Burning sensation,Unknown; Not Recovered,PREGABALIN
+No,False,False,False,False,Pain; Aphthous ulcer; Rash; Malaise; White blood cell count decreased,Pain,Unknown; Not Recovered; Recovered,PALBOCICLIB
+Yes,True,False,False,False,Urosepsis,Urosepsis,Unknown,"CYCLOPHOSPHAMIDE FOR INJECTION; CYCLOPHOSPHAMIDE; CYCLOPHOSPHAMIDE INJECTION, SOLUTION"
+Yes,False,True,False,False,Blood pressure systolic increased; Oxygen saturation decreased; Blood pressure fluctuation; Pneumonia; Rash,Blood pressure systolic increased,Unknown; Not Recovered,RITUXIMAB
+No,False,False,False,False,Insomnia; Eosinophilic pustular folliculitis; Drug ineffective,Insomnia,Unknown; Not Recovered; Recovered,CROFELEMER
+Yes,True,True,True,False,Cardio-respiratory arrest; Drug abuse; Toxicity to various agents; Toxicity to various agents; Overdose,Cardio-respiratory arrest,Unknown,OXYCODONE HYDROCHLORIDE; OXYCODONE
+Yes,False,False,False,False,Crohn^s disease; Treatment failure; Diarrhoea; Faeces soft; Off label use,Crohn^s disease,Unknown,VEDOLIZUMAB
+Yes,False,False,False,False,Irritability; Withdrawal syndrome; Sleep disorder; Vertigo; Fatigue,Irritability,Unknown,DULOXETINE HYDROCHLORIDE
+Yes,False,False,False,False,Crohn^s disease; Colitis microscopic; Off label use; Frequent bowel movements; Mucous stools,Crohn^s disease,Unknown; Not Recovered; Recovered,VEDOLIZUMAB
+No,False,False,False,False,Gastrointestinal disorder; Therapeutic response unexpected,Gastrointestinal disorder,Unknown; Not Recovered,VALBENAZINE
+Yes,False,False,False,False,Fatigue; Treatment failure; Contraindicated product administered; Off label use; Drug intolerance,Fatigue,Recovered,CYCLOSPORINE
+No,False,False,False,False,COVID-19,COVID-19,Fatal,OCRELIZUMAB
+Yes,False,True,False,False,Urinary tract infection; Abdominal distension; Pain; Kidney infection,Urinary tract infection,Recovered,DIMETHYL FUMARATE
+Yes,False,False,False,False,Bladder cancer recurrent,Bladder cancer recurrent,Unknown,BCG LIVE
+Yes,True,False,False,False,Overdose,Overdose,Unknown,HOLKIRA PAK
+Yes,False,True,False,False,Hydronephrosis; Sepsis; Acute kidney injury; Pyrexia; Multiple sclerosis relapse,Hydronephrosis,Not Recovered; Recovered,DIMETHYL FUMARATE
+Yes,False,True,True,False,Acute respiratory failure; Palatal polyp; Foetal exposure during pregnancy,Acute respiratory failure,Unknown; Recovered,PROGESTERONE
+Yes,False,True,False,False,Immune-mediated hepatitis; Autoimmune pericarditis; Autoimmune disorder; Autoimmune hepatitis,Immune-mediated hepatitis,Recovering; Fatal,BEVACIZUMAB
+Yes,False,False,False,False,Gait disturbance; Abdominal discomfort; Rheumatoid arthritis; Nausea; Malaise,Gait disturbance,Unknown; Not Recovered,LEFLUNOMIDE
+No,False,False,False,False,Drug hypersensitivity,Drug hypersensitivity,Unknown,DIAZEPAM
+Yes,False,False,False,False,Gynaecomastia; Hyperprolactinaemia; Off label use; Obesity; Product use issue,Gynaecomastia,Unknown,RISPERIDONE
+Yes,False,False,False,False,Thrombocytopenia; Alopecia; Drug interaction; Mouth ulceration; Joint stiffness,Thrombocytopenia,Unknown; Not Recovered; Recovering,PALBOCICLIB
+Yes,False,False,False,True,Paralysis; COVID-19; Illness; Gait disturbance; Constipation,Paralysis,Unknown; Not Recovered; Recovering; Fatal,FINGOLIMOD HCL
+Yes,False,False,False,False,Psychological trauma; Alopecia,Psychological trauma,Unknown; Recovering,TAXOTERE
+Yes,False,False,False,False,Cardiac failure; Poor peripheral circulation; Gait disturbance,Cardiac failure,Unknown,SACUBITRIL AND VALSARTAN
+Yes,False,False,False,False,Type 2 diabetes mellitus,Type 2 diabetes mellitus,Not Recovered,"ATORVASTATIN CALCIUM; ATORVASTATIN CALCIUM, FILM COATED"
+Yes,False,False,False,False,Myocardial infarction,Myocardial infarction,Unknown,AVANDIA
+Yes,False,False,False,False,Abnormal behaviour; Anaemia; Arthralgia; Condition aggravated; Dizziness,Abnormal behaviour,Unknown; Not Recovered; Recovered,INFLIXIMAB
+Yes,False,True,True,False,Liver function test abnormal; Clear cell renal cell carcinoma; Acute kidney injury; Type 2 diabetes mellitus; Cardiac failure,Liver function test abnormal,Unknown; Recovered; Recovering,METHOTREXATE SODIUM
+No,False,False,False,False,Malaise; Drug ineffective,Malaise,Unknown; Not Recovered,CARBIDOPA-LEVODOPA ER
+Yes,False,True,False,False,Pyrexia; Platelet count abnormal; Nausea; Hiccups; Paroxysmal nocturnal haemoglobinuria,Pyrexia,Unknown,ELTROMBOPAG OLAMINE; ELTROMBOPAG
+No,False,False,False,False,Therapy non-responder; Psoriasis,Therapy non-responder,Unknown,APREMILAST
+Yes,False,False,False,False,Malignant neoplasm progression; Pain in extremity; Depression; Metastases to lung; Nervousness,Malignant neoplasm progression,Unknown; Not Recovered,PALBOCICLIB
+Yes,False,True,False,False,Faecal incontinence; Neck surgery; Drug effect decreased; Abdominal pain; Diarrhoea,Faecal incontinence,Not Recovered; Recovered,ADALIMUMAB
+No,False,False,False,False,Dysgeusia; Fatigue; Dizziness; Hallucination; Heart rate increased,Dysgeusia,Unknown; Recovered,FINGOLIMOD HCL
+Yes,False,False,False,False,Cardiac failure congestive,Cardiac failure congestive,Unknown,AVANDIA
+Yes,False,False,False,False,Maternal exposure during pregnancy; Pregnancy after post coital contraception,Maternal exposure during pregnancy,Unknown,LEVONORGESTREL
+No,False,False,False,False,Dry skin; Rash; Myalgia; Muscle tightness; Arthralgia,Dry skin,Unknown,ALIROCUMAB
+No,False,False,False,False,Drug ineffective; Product use issue; Off label use,Drug ineffective,Unknown; Not Recovered,SILDENAFIL CITRATE
+Yes,False,True,False,False,Encephalopathy,Encephalopathy,Recovered,CAPECITABINE
+No,False,False,False,False,Migraine; Rash; Onychomycosis; Dyspareunia; Immunodeficiency,Migraine,Not Recovered; Recovered; Recovering,OCRELIZUMAB
+Yes,False,False,False,False,Suicidal ideation; Condition aggravated; Depression; Anxiety; Exposure during pregnancy,Suicidal ideation,Unknown; Recovered,SODIUM OXYBATE
+No,False,False,False,False,Off label use; No adverse event,Off label use,Unknown; Recovered,KETAMINE
+Yes,False,False,False,False,Scar pain; Herpes zoster; Urinary tract infection; Ophthalmic herpes zoster; Asthenia,Scar pain,Unknown; Not Recovered; Recovered,OCRELIZUMAB
+Yes,False,True,True,False,Sinusitis; Haemoptysis; Computerised tomogram abnormal; Interstitial lung disease; Cardiac failure,Sinusitis,Unknown; Recovering,LEFLUNOMIDE
+Yes,False,True,False,False,Chronic obstructive pulmonary disease,Chronic obstructive pulmonary disease,Unknown,AMBRISENTAN
+No,False,False,False,False,Lymphadenopathy; Trigger finger; Blood count abnormal; Abdominal discomfort; Neutrophil count decreased,Lymphadenopathy,Unknown,PALBOCICLIB
+No,False,False,False,False,COVID-19,COVID-19,Unknown,TREPROSTINIL
+No,False,False,False,False,Product dose omission issue; Rash; Urticaria; Alopecia; Skin lesion,Product dose omission issue,Unknown,BOSUTINIB
+No,False,False,False,False,Off label use; Product use in unapproved indication; Emotional distress; Gynaecomastia,Off label use,Unknown,RISPERIDONE
+No,False,False,False,False,Drug ineffective; Product dose omission issue; Memory impairment; Therapeutic response unexpected; Seasonal allergy,Drug ineffective,Unknown,TOFACITINIB
+Yes,False,True,False,False,Pneumonia; Hypoxia; Pulmonary embolism,Pneumonia,Unknown; Fatal,IDELALISIB
+Yes,False,False,False,False,Haematochezia; Haematochezia; Headache; Illness; Myocardial infarction,Haematochezia,Unknown; Not Recovered; Recovered,TOFACITINIB
+Yes,False,False,False,False,Tonsillitis; Dysphonia; Pulmonary fibrosis; Emphysema; Cardiac disorder,Tonsillitis,Unknown; Not Recovered; Recovering,ABATACEPT
+Yes,False,False,False,False,Pyrexia; Condition aggravated; Product quality issue; Lung operation,Pyrexia,Unknown,SERETIDE
+Yes,False,True,False,False,Blood pressure fluctuation; Condition aggravated; Nausea; Vomiting; Body temperature increased,Blood pressure fluctuation,Not Recovered,INFLIXIMAB
+No,False,False,False,False,Oropharyngeal pain; Throat irritation; Illness; Product dose omission issue,Oropharyngeal pain,Unknown; Not Recovered,TOFACITINIB
+Yes,False,False,False,False,Arthropathy; Blood pressure diastolic abnormal; Blood pressure diastolic decreased; Blood pressure systolic abnormal; Blood pressure systolic increased,Arthropathy,Not Recovered,RITUXIMAB
+No,False,False,False,False,Hypotension; Myalgia; Pyrexia; Dyspepsia; Chest discomfort,Hypotension,Unknown; Not Recovered; Recovered,ALGLUCOSIDASE ALFA
+Yes,True,False,False,False,Cerebral haemorrhage,Cerebral haemorrhage,Unknown,NESP
+Yes,False,False,False,False,Cataract,Cataract,Unknown,INSULIN GLARGINE
+No,False,False,False,False,Dizziness; Blood glucose decreased; Diarrhoea,Dizziness,Unknown; Recovered,APREMILAST
+Yes,False,False,False,False,Bronchitis; Off label use; Intentional product use issue; Off label use; Condition aggravated,Bronchitis,Unknown; Not Recovered,INFLIXIMAB-DYYB
+Yes,False,False,False,False,Renal failure; Bone density decreased; Tooth loss,Renal failure,Unknown; Not Recovered,"ELVITEGRAVIR, COBICISTAT, EMTRICITABINE, AND TENOFOVIR DISOPROXIL FUMARATE"
+No,False,False,False,False,Accidental exposure to product; Drug dose omission; Device malfunction; Syringe issue,Accidental exposure to product,Unknown; Recovered,USTEKINUMAB
+Yes,False,False,False,False,Congenital hydrocephalus; Foetal exposure during pregnancy,Congenital hydrocephalus,Unknown,RANITIDINE HYDROCHLORIDE
+No,False,False,False,False,Heart rate increased; Influenza like illness; Fatigue; Visual impairment; Fatigue,Heart rate increased,Not Recovered; Recovered,OCRELIZUMAB
+Yes,True,True,False,False,Coronary artery bypass; Death,Coronary artery bypass,Unknown,DARBEPOETIN ALFA
+Yes,False,True,False,False,Injection site pain; Viral infection,Injection site pain,Unknown,ETANERCEPT
+Yes,False,True,False,False,Hypophagia; Therapeutic response shortened; Muscular weakness; Feeling abnormal; Fatigue,Hypophagia,Unknown; Not Recovered; Recovered,NUSINERSEN
+Yes,False,True,True,False,Renal failure; Intra-abdominal haemorrhage; Seizure; Postoperative wound infection,Renal failure,Recovered,TACROLIMUS
+No,False,False,False,False,Condition aggravated; Maternal exposure during pregnancy; Normal newborn; Inappropriate schedule of product administration; Feeling abnormal,Condition aggravated,Unknown,CANAKINUMAB
+Yes,False,False,False,False,Cerebrovascular accident,Cerebrovascular accident,Unknown,AVANDIA
+Yes,False,False,False,False,Cataract; Thrombosis; Insomnia; Visual impairment; Vitamin B12 decreased,Cataract,Unknown; Not Recovered; Recovered,SACUBITRIL AND VALSARTAN
+No,False,False,False,False,Arthritis; Finger deformity; Malaise; Pain; Grip strength decreased,Arthritis,Not Recovered; Recovered,ETANERCEPT
+Yes,False,True,False,False,Hyperparathyroidism; Hypertension; Hypotension; Ascites; Diabetes mellitus inadequate control,Hyperparathyroidism,Unknown; Not Recovered; Recovered; Recovering,MYCOPHENOLIC ACID
+No,False,False,False,False,Device use issue; Testicular pain; Pain; Pain in extremity,Device use issue,Unknown,SOMATROPIN
+No,False,False,False,False,Treatment failure,Treatment failure,Unknown,CERTOLIZUMAB PEGOL
+Yes,False,True,False,False,Malaise,Malaise,Unknown,TOFACITINIB
+Yes,False,False,False,False,Hypothermia; Face oedema; Periorbital oedema; Mucosal inflammation; Muscle spasms,Hypothermia,Unknown; Not Recovered,IMATINIB
+Yes,True,False,False,False,Drug abuse,Drug abuse,Unknown,CYCLOBENZAPRINE
+Yes,False,False,False,False,Vertigo; Paraesthesia; Mood swings; Mononeuritis; Nausea,Vertigo,Unknown; Recovered,DULOXETINE HYDROCHLORIDE
+Yes,False,False,False,True,Akathisia; Pain; Lymphocyte count increased; Vitamin B12 deficiency; Eosinophil count abnormal,Akathisia,Not Recovered,OLANZAPINE
+No,False,False,False,False,Sialoadenitis,Sialoadenitis,Recovered,ATEZOLIZUMAB
+Yes,False,False,False,False,Vascular stent thrombosis; Off label use,Vascular stent thrombosis,Unknown,ACETYLSALICYLIC ACID({=100 MG)
+Yes,False,False,False,False,Bladder cancer; Lacrimation increased; Pruritus; Eye inflammation; Ocular hyperaemia,Bladder cancer,Unknown; Not Recovered,DUPILUMAB
+Yes,True,True,False,False,Internal haemorrhage; Coronary artery disease; Amyotrophic lateral sclerosis; Melaena,Internal haemorrhage,Unknown,RIVAROXABAN
+No,False,False,False,False,Therapeutic product effect incomplete; Off label use; Behaviour disorder; Fall; Pain,Therapeutic product effect incomplete,Unknown,PREGABALIN
+Yes,False,True,False,False,Urticaria,Urticaria,Recovered,CHLORAMBUCIL
+Yes,False,True,False,False,Pyrexia; Rhabdomyolysis; Hepatocellular injury; Pancreatitis; Pancreatitis,Pyrexia,Recovered,TRAMETINIB
+Yes,False,True,False,False,Arthropathy; Blood calcium decreased; Vitamin B12 decreased; Vitamin D decreased; Blood magnesium decreased,Arthropathy,Unknown,ABATACEPT
+Yes,False,False,False,False,Renal failure; Chronic kidney disease; Acute kidney injury,Renal failure,Unknown; Not Recovered,LANSOPRAZOLE
+No,False,False,False,False,Inappropriate schedule of product administration,Inappropriate schedule of product administration,Unknown,INSULIN GLARGINE
+Yes,False,True,False,False,Hepatic cirrhosis,Hepatic cirrhosis,Recovering,RIVAROXABAN
+No,False,False,False,False,Hyperthyroidism; Fatigue,Hyperthyroidism,Recovered,TRIATEC PLUS
+Yes,False,False,False,False,Rhabdomyolysis,Rhabdomyolysis,Recovered,LEVETIRACETAM 1000MG
+Yes,False,True,False,False,Constipation,Constipation,Unknown,IBRUTINIB
+Yes,False,True,False,False,Anaemia; Product dose omission issue; Product dose omission issue; Product dose omission issue; Adverse drug reaction,Anaemia,Unknown; Recovered,PIMAVANSERIN TARTRATE
+Yes,False,True,False,False,Wrist fracture; Sinusitis; Alopecia; Malaise,Wrist fracture,Unknown; Recovering,CERTOLIZUMAB PEGOL
+Yes,False,False,False,False,Mixed liver injury,Mixed liver injury,Recovered,DAFALGAN
+Yes,False,False,False,False,Malignant neoplasm progression; Neuropathy peripheral; Anaemia; Chest pain; Gastrooesophageal reflux disease,Malignant neoplasm progression,Unknown; Not Recovered; Recovered; Recovering,NIRAPARIB
+Yes,False,False,False,False,Constipation; Burning sensation; Abdominal pain upper; Device issue; Back pain,Constipation,Unknown; Not Recovered; Recovered,ADALIMUMAB
+Yes,False,True,False,False,Herpes zoster; COVID-19; Cough; Malaise; Illness,Herpes zoster,Unknown; Not Recovered; Recovered,TOFACITINIB
+Yes,True,True,False,False,Dyspnoea; Liver disorder; Diarrhoea; Hepatomegaly; Renal disorder,Dyspnoea,Unknown; Not Recovered; Recovered,NINTEDANIB
+No,False,False,False,False,Pain; Skin papilloma; Musculoskeletal stiffness,Pain,Unknown; Not Recovered,ETANERCEPT
+Yes,False,True,False,False,Genitourinary tract infection; Acute kidney injury; Inappropriate antidiuretic hormone secretion; Herpes simplex; Candida infection,Genitourinary tract infection,Unknown; Recovered,MYCOPHENOLATE MOFETIL; MYCOPHENOLATE MOFETIL HYDROCHLORIDE
+Yes,False,True,False,False,Atrial fibrillation,Atrial fibrillation,Not Recovered,REGORAFENIB
+Yes,False,True,False,False,General physical health deterioration; Abdominal pain; Nausea; Musculoskeletal pain; Weight decreased,General physical health deterioration,Unknown,EZETIMIBE
+Yes,False,True,False,False,Therapeutic product effect incomplete; Dyspnoea; Asthma; Blood count abnormal; Loss of personal independence in daily activities,Therapeutic product effect incomplete,Unknown,TUDORZA
+Yes,False,False,False,False,Hypereosinophilic syndrome; Granuloma annulare,Hypereosinophilic syndrome,Unknown; Recovering,GOLIMUMAB
+Yes,False,False,False,False,Chronic kidney disease,Chronic kidney disease,Recovering,NIVOLUMAB
+Yes,False,False,False,False,Condition aggravated; Fatigue; Blood pressure increased; Drug level above therapeutic; Inappropriate schedule of product administration,Condition aggravated,Not Recovered,INFLIXIMAB
+Yes,False,False,False,False,Rotator cuff syndrome; Spinal operation; Chest pain; Arthralgia; Fibromyalgia,Rotator cuff syndrome,Not Recovered,RISEDRONATE SODIUM - BP
+Yes,False,False,False,False,Lower gastrointestinal haemorrhage; Blood loss anaemia,Lower gastrointestinal haemorrhage,Unknown,WARFARIN
+Yes,False,False,False,False,Fallot^s tetralogy; Foetal exposure during pregnancy,Fallot^s tetralogy,Unknown,METHIMAZOLE
+No,False,False,False,False,Skin fissures,Skin fissures,Not Recovered,DUPILUMAB
+Yes,False,True,False,False,Cough; Dyspnoea; Dermatitis; Presyncope; Pyrexia,Cough,Unknown,MACITENTAN
+Yes,False,True,False,False,Malaise; Dysaesthesia; Malaise; Malaise; Drug ineffective,Malaise,Unknown; Recovered,CARBIDOPA\LEVODOPA
+Yes,False,False,False,False,Sinusitis bacterial; Rash; Pruritus; Nasopharyngitis; Streptococcal infection,Sinusitis bacterial,Unknown,SECUKINUMAB
+Yes,True,True,False,False,Gastrointestinal haemorrhage; Shock haemorrhagic,Gastrointestinal haemorrhage,Unknown,RIVAROXABAN
+Yes,False,False,False,False,Atrial fibrillation,Atrial fibrillation,Unknown,AVANDIA
+Yes,False,False,False,False,Spinal operation; Surgery; Unevaluable event,Spinal operation,Unknown,SODIUM OXYBATE
+No,False,False,False,False,Urticaria; Drug hypersensitivity,Urticaria,Unknown,MORPHINE SULFATE
+Yes,False,True,True,False,Septic shock; Back pain; Sensory disturbance; Pneumonia; Hepatic failure,Septic shock,Unknown; Not Recovered; Recovered,DIAZEPAM; DIAZEPAM ORAL; DIAZEPAM ORAL SOLUTION (CONCENTRATE)
+Yes,False,False,False,False,Osteoporosis; Osteoporotic fracture,Osteoporosis,Unknown,TENOFOVIR DISOPROXIL
+No,False,False,False,False,Blood pressure increased,Blood pressure increased,Not Recovered,AXITINIB
+Yes,False,True,False,False,Pneumonia,Pneumonia,Unknown,ATRIPLA
+No,False,False,False,False,Hepatic enzyme increased; Eosinophil count increased; Diarrhoea; Pain in extremity; Weight increased,Hepatic enzyme increased,Unknown; Recovering,ETANERCEPT
+Yes,True,True,False,False,Gait inability; Dry throat; Palmar-plantar erythrodysaesthesia syndrome; Hepatic neoplasm; Alpha 1 foetoprotein increased,Gait inability,Unknown; Not Recovered; Recovered; Recovering,SORAFENIB
+Yes,False,False,False,False,Haematuria,Haematuria,Recovering,RIVAROXABAN
+Yes,False,True,True,False,Apparent death; Stevens-Johnson syndrome; Toxic epidermal necrolysis; Injury,Apparent death,Unknown,LAMOTRIGINE
+Yes,False,True,False,False,Device deployment issue; Device ineffective; Pain in extremity; Arthralgia; Fatigue,Device deployment issue,Not Recovered; Recovered,ADALIMUMAB
+Yes,False,True,True,False,Delirium; Disturbance in attention,Delirium,Recovering,ALLOPURINOL
+Yes,False,False,False,False,Blindness unilateral; Amaurosis fugax; Carotid artery occlusion,Blindness unilateral,Not Recovered; Recovered,NILOTINIB
+Yes,False,False,False,False,Chronic kidney disease,Chronic kidney disease,Not Recovered,ESOMEPRAZOLE MAGNESIUM
+Yes,False,False,False,False,Pharyngeal oedema; Dyspepsia; Lymphadenopathy; Urticaria; Reaction to drug excipients,Pharyngeal oedema,Unknown; Not Recovered; Recovering,AMMONIA; AMMONIA N-13; INHALANT
